@@ -46,6 +46,7 @@ section {
 }
 section image{
     align-items: center;
+
 }
 .project {
   background: #fff;
@@ -53,7 +54,11 @@ section image{
   margin-bottom: 1rem;
   border-left: 4px solid #007acc;
 }
-
+img{
+    height: auto;
+    width: 250px;
+    border-radius: 20px;
+}
 footer {
   text-align: center;
   padding: 1rem;
